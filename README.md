@@ -1,5 +1,5 @@
 # Glass OS
-Simulated OS project for Unity engine.
+Simulated OS project for Unity engine. Made with 2017.2 version.
 
 # Download
 You can download Glass OS from [releases page](https://github.com/Michsky/glassos/releases).
